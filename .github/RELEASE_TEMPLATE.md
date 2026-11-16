@@ -1,5 +1,7 @@
 ## VICORA SMS Intelligence {{VERSION}}
 
+versionCode: {{INCREMENTED_ANDROID_VERSION_CODE}}
+
 ### Changes
 - 
 
